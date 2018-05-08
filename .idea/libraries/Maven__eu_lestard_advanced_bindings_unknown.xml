@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: eu.lestard:advanced-bindings:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/lestard/advanced-bindings/unknown/advanced-bindings-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/lestard/advanced-bindings/unknown/advanced-bindings-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/eu/lestard/advanced-bindings/unknown/advanced-bindings-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
